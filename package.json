@@ -1,0 +1,22 @@
+{
+  "name": "matchmedia",
+  "version": "0.2.0",
+  "description": "## test whether a CSS media type or media query applies",
+  "main": "matchMedia.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbiz/matchMedia.js.git"
+  },
+  "author": "fbiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbiz/matchMedia.js/issues"
+  },
+  "homepage": "https://github.com/fbiz/matchMedia.js#readme"
+}
